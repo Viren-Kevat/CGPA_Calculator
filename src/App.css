@@ -119,6 +119,7 @@ div {
   font-size: 1.2em;
   color: #333;
   animation: fadeInSignature 1s ease-in-out; /* Signature fade-in */
+  color: #4a4a4a;
 }
 
 .signature p {
