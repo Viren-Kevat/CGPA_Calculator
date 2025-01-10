@@ -44,6 +44,11 @@ function App() {
       <Input addGrade={addGrade} /> {/* Pass addGrade function to Input */}
       <Logic grades={grades} />{" "}
       {/* Pass the grades to Logic to calculate and display CGPA */}
+      <footer className="signature">
+        <p>
+          Project developed by: <strong>Virenkumar Vijay Kevat</strong>
+        </p>
+      </footer>
     </div>
   );
 }
