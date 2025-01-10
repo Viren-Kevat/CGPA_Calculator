@@ -121,6 +121,10 @@ div {
   animation: fadeInSignature 1s ease-in-out; /* Signature fade-in */
 }
 
+.signature p {
+  color: #4a4a4a;
+}
+
 /* Animations */
 @keyframes fadeIn {
   0% {
